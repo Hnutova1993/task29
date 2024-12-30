@@ -1,2 +1,6 @@
 our id is 130 in test
-our id is 0 in live 
+our id is 0 in live1, live2 
+our id is 122 in live3, live4, live5
+
+130.png is our score chart in test
+129.png is best score chart in test
